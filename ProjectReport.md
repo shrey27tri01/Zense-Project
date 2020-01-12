@@ -2,7 +2,7 @@
 #### Problem Faced :
 Games fascinate me.
 Not only me. Everyone.
-So I came up with the idea of MAKING a game to experience the joy while I design my own world .  
+So I came up with the idea of MAKING a game to experience the joy of designing my own world .  
 
 #### Project Idea :
 My idea was to implemnt a simple game, like Temple Run, but, of course, with much simpler graphics and just some basic functionalities.

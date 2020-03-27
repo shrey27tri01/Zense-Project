@@ -14,7 +14,7 @@ I used the Unity game development engine and some basic C# programming to make t
 The basic functionalities of the project are working just fine, so I like to think that it's been finished, although much more things can be still added to the game.
 
 #### Future Prospects:
-The basic things are working just fine, but the game can be developed much more in the future. For example, we can add a characyer instead of a ball, and the obstacles, the path, the pits, coins and powerups can be made much more realistic.
+The basic things are working just fine, but the game can be developed much more in the future. For example, we can add a character instead of a ball, and the obstacles, the path, the pits, coins and powerups can be made much more realistic.
 Just like Temple Run ;)
 
 #### Videos and References :

@@ -19,9 +19,9 @@ Just like Temple Run ;)
 
 #### Videos and References :
 I followed the series of videos by Design and Deploy, one of which is : https://www.youtube.com/watch?v=-NugafDlst0
-Other websites that I followed are :
-Unity Learn: https://learn.unity.com/
-Stack Overflow : https://stackoverflow.com/
+Other websites that I followed are :   
+Unity Learn: https://learn.unity.com/  
+Stack Overflow : https://stackoverflow.com/  
 
 #### Instructions for the game:
 A to move left

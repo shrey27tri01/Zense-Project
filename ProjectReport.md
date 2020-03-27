@@ -18,13 +18,13 @@ The basic things are working just fine, but the game can be developed much more 
 Just like Temple Run ;)
 
 #### Videos and References :
-I followed the series of videos by Design and Deploy, one of which is : https://www.youtube.com/watch?v=-NugafDlst0
+I followed the series of videos by Design and Deploy, one of which is : https://www.youtube.com/watch?v=-NugafDlst0   
 Other websites that I followed are :   
 Unity Learn: https://learn.unity.com/  
 Stack Overflow : https://stackoverflow.com/  
 
 #### Instructions for the game:
-A to move left
-D to move right
-Avoid the Obstacles and the Pits!
-Try to collect as many Coins and Powerups as possible, to boost your score.
+A to move left  
+D to move right  
+Avoid the Obstacles and the Pits!  
+Try to collect as many Coins and Powerups as possible, to boost your score.  
